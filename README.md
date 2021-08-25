@@ -56,4 +56,5 @@ Use the Login credential in the `environment` section to login to the InfluxDB W
     `export INFLUX_TOKEN=<YOUR TOKEN>`
     `telegraf --config http://localhost:8086/api/v2/telegrafs/<SOME-TOKEN>`
 
-- Once ypu execute both of those commands the telegraf starts sending your System Metrics to the InfluxDB and you can start viewing the metrics from the Explore Tab on side menu of Web UI.
+- Once you execute both of those commands the telegraf starts sending your System Metrics to the InfluxDB and you can start viewing the metrics from the Explore Tab on side menu of Web UI.
+- You can even click on the `Boards` tab to view some cool metrics in the form of dashboard.
