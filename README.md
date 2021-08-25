@@ -58,3 +58,7 @@ Use the Login credential in the `environment` section to login to the InfluxDB W
 
 - Once you execute both of those commands the telegraf starts sending your System Metrics to the InfluxDB and you can start viewing the metrics from the Explore Tab on side menu of Web UI.
 - You can even click on the `Boards` tab to view some cool metrics in the form of dashboard.
+
+
+## Docker Image:
+- Docker Image for this can be pulled from Docker Hub at `docker pull kesash influxdbimage`
